@@ -1,0 +1,70 @@
+*{
+	font-size: 14px;
+	line-height: 1.5em;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+input{
+	width: 400px;
+	height: 55px;
+	display: block;
+	border-radius: 30px;
+	font-size: 16px;
+	padding: 10px 20px;
+
+}
+
+.navbar{
+	margin: 10px;
+	padding: 10px;
+}
+
+
+
+
+div#corpo-form{
+	width: 400px;
+	margin: 130px auto 0px auto;
+}
+div#corpo-cadastro{
+	width: 400px;
+	margin: 70px auto 0px auto;
+
+}
+
+div#corpo-form h3,div#corpo-cadastro h3{
+	text-align: center;
+}
+
+a:hover{
+
+	text-decoration: underline;
+}
+div#corpo-form a{
+	width: 400px;
+	height: 55px;
+	display: block;
+	border-radius: 30px;
+	font-size: 16px;
+	padding: 40px 30px;
+	margin-left: 30px;
+	}
+
+.projeto{
+	background: url("..imagens/imagem2.jpg");
+}
+
+div#sucesso{
+
+	width: 420px;
+	margin: 10px auto;
+
+}
+
+div.alerta{
+	width: 420px;
+	margin: 10px auto;
+	color: red;
+}
